@@ -13,8 +13,7 @@ namespace hello_world_api
 {
     public class Startup
     {
-		// Test master-commit 2
-		// Master nächster Test
+		// Testkommentar feature-commit
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
