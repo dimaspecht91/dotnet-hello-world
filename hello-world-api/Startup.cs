@@ -18,6 +18,9 @@ namespace hello_world_api
 		// Test master 2
 		
 		// Testkommentar master 3
+		// Testkommentar feature 2
+		
+		//Testkommentar feature 3
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
