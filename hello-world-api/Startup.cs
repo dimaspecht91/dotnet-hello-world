@@ -32,6 +32,7 @@ namespace hello_world_api
             services.AddMvc();
         }
 
+		// Testkommentar master 3
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
